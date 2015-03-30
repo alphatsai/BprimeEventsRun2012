@@ -1,0 +1,14 @@
+RunNo	LumiNo	EvtNo
+Comparing with B2G_12_019_data.txt
+201196	558	442979352
+198272	438	392340554
+207273	358	398935813
+190706	26	24916901
+203002	414	560041601
+
+Comparing with BprimeTobZ_Events.txt
+194424	155	190671542
+
+Comparing with MultileptonEventList.txt
+
+Comparing with SS2L_Event_lists.txt
